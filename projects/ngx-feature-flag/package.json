@@ -1,0 +1,18 @@
+{
+  "name": "ngx-feature-flag",
+  "version": "0.1.0",
+  "description": "Angular Feature Flags",
+  "keywords": ["Angular", "Feature Flags"],
+  "homepage": "https://github.com/jhacobs/ngx-feature-flag",
+  "repository": "github:jhacobs/ngx-feature-flag",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^12.2.0 || ^13.0.0",
+    "@angular/core": "^12.2.0 || ^13.0.0",
+    "@angular/http": "^12.2.0 || ^13.0.0",
+    "rxjs": "^6.6.0 || ~7.4.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
