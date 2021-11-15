@@ -6,9 +6,7 @@ Feature flags for an Angular application
 
 This package can be installed with npm
 
-```bash
-  npm install ngx-feature-flags
-```
+//
 
 ## Usage/Examples
 
